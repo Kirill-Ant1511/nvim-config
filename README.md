@@ -3,5 +3,5 @@
 - lua/plugins - all plugins 
 - lsp - for C language and lua
 ## Hotkey
-- Neotree - <leader(space)>
+- Neotree - <leader(space)>n
 
